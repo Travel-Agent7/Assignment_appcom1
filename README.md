@@ -5,7 +5,7 @@ STEPS TO RUN THE PROJECT
 
 2. Install and build npm Dependanciesnpm install, npm run build
 
-3. Configure the .env file with database settings.
+3. Configure the .env file with your database settings.
 
 4. Generate the application key: php artisan key:generate
 
